@@ -7,13 +7,17 @@
 /*corpo*/
 body {
   color: green;
+  background-color: yellow;
 }
 
 .base {
+  margin: 0 auto;
   text-align: center;
   margin-top: 50px;
+  background-color: orange;
+  width: 30%;
 }
 .base span {
-  color: orange;
+  color: red;
   font-size: 30px;
 }
